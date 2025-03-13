@@ -15,18 +15,10 @@ import org.springframework.web.bind.annotation.RestController;
 import com.learn.entity.User;
 import com.learn.service.UserService;
 
-// 주석을 줄이세요.. 코드 가독성이 떨어질 수 있어요.
-
 // 1
 @RestController
 @RequestMapping("/users")
 public class UserController {
-
-	
-	
-	
-	
-	
 	// 13
 	@Autowired
 	// 12
